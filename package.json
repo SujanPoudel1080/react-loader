@@ -1,0 +1,23 @@
+{
+  "name": "react-loader",
+  "version": "1.0.0",
+  "description": "loader component using react js that allows user to select different types of spinners as well as add custom logos to the loading screen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SujanPoudel1080/react-loader.git"
+  },
+  "keywords": [
+    "loader",
+    "react-library"
+  ],
+  "author": "sujanpoudel1080",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SujanPoudel1080/react-loader/issues"
+  },
+  "homepage": "https://github.com/SujanPoudel1080/react-loader#readme"
+}
